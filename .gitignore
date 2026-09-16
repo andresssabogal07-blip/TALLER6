@@ -1,0 +1,29 @@
+# Compiled Java classes
+*.class
+
+# Build output
+bin/
+out/
+target/
+build/
+
+# VS Code workspace settings
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# IDE files
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
